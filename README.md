@@ -1,6 +1,6 @@
 ## Hi there 👋
 ## Cybersecurity + IT enthusiast
-Cybersecurity + IT enthusiast exploring vulnerability management, threat hunting, and hands-on defensive security.
+Cybersecurity + IT enthusiast exploring vulnerability management, threat hunting, and defensive security.
 
 
 

@@ -1,5 +1,5 @@
 ## Hi there 👋
-## Cybersecurity + IT enthusiast.  
+## Cybersecurity + IT enthusiast
 
 <!--
 **jm218/jm218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,9 +1,12 @@
 ## Hi there 👋
 ## Cybersecurity + IT enthusiast
+Cybersecurity + IT enthusiast exploring vulnerability management, threat hunting, and hands-on defensive security.
 
 
 
+  
 ## 🔍 Vulnerability Management Projects
+
 <!--
 **jm218/jm218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

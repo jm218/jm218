@@ -8,6 +8,9 @@ Cybersecurity + IT enthusiast exploring vulnerability management, threat hunting
 ## 🔍 Vulnerability Management Projects 
 https://github.com/jm218/Vulnerability-Management-Program
 
+## 🧅 TOR Browser Threat Hunting Project
+https://github.com/jm218/Threat-Hunting-Scenario-TOR/blob/main/README.md
+
 <!--
 **jm218/jm218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
